@@ -21,7 +21,7 @@
 title: peter-l.in
 email: peterql2@illinois.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  A place for me to share bits of knowledge I've picked up here and there.
+  a place for me
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://peter-l.in" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: peter-q-lin
