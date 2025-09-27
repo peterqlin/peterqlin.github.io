@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Living My Animation Dreams"
-date:   2025-09-26 22:31:00 -0500
+date:   2025-09-26
 categories: stories
 ---
 It seems fitting to start with a childhood story for my first blog post. As a kid, I was obsessed with stop-motion animation. I don't remember how exactly my obsession started—actually, scratch that, it's coming back to me now. It all started with this Youtuber, [Michael Hickox](https://www.youtube.com/@MlCHAELHlCKOXFilms/). After watching his videos for the first time as a kid, I was blown away by the way he made stories come to life with Lego. I desperately wanted to make my own animations.
