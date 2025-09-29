@@ -53,7 +53,7 @@ There's nothing like a good bug to drill an important concept into your head. Ha
 
 A couple hours later, the OCaml implementation is working! Honestly the time spent on this project was probably split 40/60 setting up the local OCaml environment (I tried and failed to get it to work on Windows, but luckily Ubuntu worked) and actually writing out the code. Anyways, it was definitely worth it. I practiced using `Array` functions like `fold_left` and had fun translating my programming intuition from Python over to OCaml.
 
-Here are some highlights—the [full code]() is on my Github.
+Here are some highlights—the [full code](https://github.com/peterqlin/games-of-life) is on my Github.
 
 When creating the 2D array to store the grid state, I quickly learned the difference between `Array.make` and `Array.init`—the former creates an array with copies of whatever initial item you pass in, while the latter calls a function for every element created. For `Array`s, this is especially important, as they are mutable.
 
