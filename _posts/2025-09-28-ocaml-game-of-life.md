@@ -2,7 +2,7 @@
 layout: post
 title:  "OCaml Game Of Life"
 date:   2025-09-28
-categories: sidequests
+categories: projects
 ---
 This semester I'm taking CS 421, which is "Programming Languages and Compilers," and the focus of the course is on the functional programming language Ocaml. So far I've found the functional programming paradigm to be a nice change of pace; there's a lot more emphasis on using recursion over while loops for iterative tasks, and a particular kind of recursion called "tail recursion" is preferred since it only requires constant stack space (whereas "non-tail recursion" takes up linear stack space).
 
