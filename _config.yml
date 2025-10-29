@@ -27,7 +27,6 @@ linkedin_username: peter-q-lin
 github_username:  peterqlin
 header_pages:
  - about.md
- - course_reviews.md
 
 # Build settings
 theme: minima
